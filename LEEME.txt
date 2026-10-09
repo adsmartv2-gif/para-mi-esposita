@@ -1,0 +1,8 @@
+TARJETA DIGITAL - PARA MI ESPOSITA
+
+Abre index.html para ver la tarjeta localmente.
+Para publicarla, sube index.html y la carpeta assets a un repositorio NUEVO de GitHub, y conecta ese repositorio a Vercel.
+
+La canción Hall of Fame está enlazada mediante el botón superior, pero NO está integrada como audio de fondo: para reproducirla dentro de la tarjeta se requiere un archivo de audio autorizado.
+
+Las cinco fotografías originales se incluyen sin alteraciones.
